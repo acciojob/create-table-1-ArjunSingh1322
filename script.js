@@ -6,8 +6,8 @@ function insert_Row() {
 	let cell1 = newrow.insertCell(0)
 	let cell2 = newrow.insertCell(1)
 
-	cell1.innerText = "New Cell"
-		cell2.innerText = "New Cell"
+	cell1.innerText = "New Cell1"
+		cell2.innerText = "New Cell2"
 
   
 }
